@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pedidos>
+  <pedidos>
+    <IDPEDIDO>1</IDPEDIDO>
+    <REFCLIENTE>8</REFCLIENTE>
+    <REFUSUARIO>1</REFUSUARIO>
+    <FECHA>20140113</FECHA>
+    <REFFORMAPAGO>3</REFFORMAPAGO>
+    <TOTAL>201,84</TOTAL>
+    <PAGADO>175</PAGADO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMPEDIDO>1</NUMPEDIDO>
+    <HORAPEDIDO>100716</HORAPEDIDO>
+    <FECHAENTREGA>20140113</FECHAENTREGA>
+  </pedidos>
+</pedidos>

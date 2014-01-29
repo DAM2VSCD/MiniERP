@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pedidosarticulos>
+  <pedidosarticulos>
+    <IDPEDIDOSARTICULOS>1</IDPEDIDOSARTICULOS>
+    <REFPEDIDO>1</REFPEDIDO>
+    <REFARTICULO>1</REFARTICULO>
+    <CANTIDAD>3</CANTIDAD>
+    <PRECIOVENTA>67,28</PRECIOVENTA>
+  </pedidosarticulos>
+</pedidosarticulos>

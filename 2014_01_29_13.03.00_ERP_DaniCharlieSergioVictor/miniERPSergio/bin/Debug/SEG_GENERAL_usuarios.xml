@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<usuarios>
+  <usuarios>
+    <IDUSUARIO>1</IDUSUARIO>
+    <NOMBRE>admin00</NOMBRE>
+    <PASSWORD>by2vOfvlXFfxdDqy9XE8ALBJi62ms2Qw</PASSWORD>
+    <ELIMINADO>0</ELIMINADO>
+  </usuarios>
+  <usuarios>
+    <IDUSUARIO>2</IDUSUARIO>
+    <NOMBRE>sergio00</NOMBRE>
+    <PASSWORD>hzoRYrF/vUTruXHMSebnKe6aHsI1O8kO</PASSWORD>
+    <ELIMINADO>0</ELIMINADO>
+  </usuarios>
+</usuarios>

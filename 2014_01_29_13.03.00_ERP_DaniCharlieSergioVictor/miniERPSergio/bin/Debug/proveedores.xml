@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<cambios>
+  <cambios>
+    <IDCAMBIO>7</IDCAMBIO>
+    <NUMCAMBIO>1006</NUMCAMBIO>
+    <REFUSUARIO>1</REFUSUARIO>
+    <FECHA>20140129</FECHA>
+    <HORA>125940</HORA>
+    <DESCRIPCION>Inicio de sesión</DESCRIPCION>
+    <TIPO>0</TIPO>
+  </cambios>
+  <cambios>
+    <IDCAMBIO>8</IDCAMBIO>
+    <NUMCAMBIO>1007</NUMCAMBIO>
+    <REFUSUARIO>1</REFUSUARIO>
+    <FECHA>20140129</FECHA>
+    <HORA>125942</HORA>
+    <DESCRIPCION>Cierre de sesión</DESCRIPCION>
+    <TIPO>0</TIPO>
+  </cambios>
+  <cambios>
+    <IDCAMBIO>9</IDCAMBIO>
+    <NUMCAMBIO>1008</NUMCAMBIO>
+    <REFUSUARIO>1</REFUSUARIO>
+    <FECHA>20140129</FECHA>
+    <HORA>130113</HORA>
+    <DESCRIPCION>Inicio de sesión</DESCRIPCION>
+    <TIPO>0</TIPO>
+  </cambios>
+  <cambios>
+    <IDCAMBIO>10</IDCAMBIO>
+    <NUMCAMBIO>1009</NUMCAMBIO>
+    <REFUSUARIO>1</REFUSUARIO>
+    <FECHA>20140129</FECHA>
+    <HORA>130143</HORA>
+    <DESCRIPCION>Inicio de sesión</DESCRIPCION>
+    <TIPO>0</TIPO>
+  </cambios>
+  <cambios>
+    <IDCAMBIO>11</IDCAMBIO>
+    <NUMCAMBIO>1010</NUMCAMBIO>
+    <REFUSUARIO>1</REFUSUARIO>
+    <FECHA>20140129</FECHA>
+    <HORA>130232</HORA>
+    <DESCRIPCION>Cierre de sesión</DESCRIPCION>
+    <TIPO>0</TIPO>
+  </cambios>
+  <cambios>
+    <IDCAMBIO>1</IDCAMBIO>
+    <NUMCAMBIO>1000</NUMCAMBIO>
+    <REFUSUARIO>1</REFUSUARIO>
+    <FECHA>20140123</FECHA>
+    <HORA>174826</HORA>
+    <DESCRIPCION>Inicio de sesión</DESCRIPCION>
+    <TIPO>0</TIPO>
+  </cambios>
+  <cambios>
+    <IDCAMBIO>2</IDCAMBIO>
+    <NUMCAMBIO>1001</NUMCAMBIO>
+    <REFUSUARIO>1</REFUSUARIO>
+    <FECHA>20140123</FECHA>
+    <HORA>174835</HORA>
+    <DESCRIPCION>Copia de seguridad parcial creada de la tabla CAMBIOS creada</DESCRIPCION>
+    <TIPO>0</TIPO>
+  </cambios>
+  <cambios>
+    <IDCAMBIO>3</IDCAMBIO>
+    <NUMCAMBIO>1002</NUMCAMBIO>
+    <REFUSUARIO>1</REFUSUARIO>
+    <FECHA>20140123</FECHA>
+    <HORA>174854</HORA>
+    <DESCRIPCION>Cierre de sesión</DESCRIPCION>
+    <TIPO>0</TIPO>
+  </cambios>
+  <cambios>
+    <IDCAMBIO>4</IDCAMBIO>
+    <NUMCAMBIO>1003</NUMCAMBIO>
+    <REFUSUARIO>1</REFUSUARIO>
+    <FECHA>20140127</FECHA>
+    <HORA>214733</HORA>
+    <DESCRIPCION>Inicio de sesión</DESCRIPCION>
+    <TIPO>0</TIPO>
+  </cambios>
+  <cambios>
+    <IDCAMBIO>5</IDCAMBIO>
+    <NUMCAMBIO>1004</NUMCAMBIO>
+    <REFUSUARIO>1</REFUSUARIO>
+    <FECHA>20140127</FECHA>
+    <HORA>220023</HORA>
+    <DESCRIPCION>creación de deuda 3</DESCRIPCION>
+    <TIPO>0</TIPO>
+  </cambios>
+  <cambios>
+    <IDCAMBIO>6</IDCAMBIO>
+    <NUMCAMBIO>1005</NUMCAMBIO>
+    <REFUSUARIO>1</REFUSUARIO>
+    <FECHA>20140127</FECHA>
+    <HORA>222028</HORA>
+    <DESCRIPCION>Cierre de sesión</DESCRIPCION>
+    <TIPO>0</TIPO>
+  </cambios>
+</cambios>

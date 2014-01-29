@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<clientes>
+  <clientes>
+    <IDCLIENTE>1</IDCLIENTE>
+    <NOMBRE>Victor</NOMBRE>
+    <APELLIDO1>Roldan</APELLIDO1>
+    <APELLIDO2>Roldan</APELLIDO2>
+    <DIRECCION>calle de victor 1</DIRECCION>
+    <REFCPPOBLACIONES>154</REFCPPOBLACIONES>
+    <TELEFONO>916768594</TELEFONO>
+    <MAIL>victor@indie.com</MAIL>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMCLIENTE>1000</NUMCLIENTE>
+  </clientes>
+  <clientes>
+    <IDCLIENTE>2</IDCLIENTE>
+    <NOMBRE>Charlie</NOMBRE>
+    <APELLIDO1>Lopez</APELLIDO1>
+    <APELLIDO2>Nieto</APELLIDO2>
+    <DIRECCION>Avenida Churriega SN</DIRECCION>
+    <REFCPPOBLACIONES>2228</REFCPPOBLACIONES>
+    <TELEFONO>926778822</TELEFONO>
+    <MAIL>charlie@ps3.com</MAIL>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMCLIENTE>1001</NUMCLIENTE>
+  </clientes>
+  <clientes>
+    <IDCLIENTE>3</IDCLIENTE>
+    <NOMBRE>Daniel</NOMBRE>
+    <APELLIDO1>de las Dos Torres</APELLIDO1>
+    <APELLIDO2>Ibiza</APELLIDO2>
+    <DIRECCION>Calle Mordor 4</DIRECCION>
+    <REFCPPOBLACIONES>984</REFCPPOBLACIONES>
+    <TELEFONO>976334455</TELEFONO>
+    <MAIL>daniibiza@manolito.com</MAIL>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMCLIENTE>1002</NUMCLIENTE>
+  </clientes>
+  <clientes>
+    <IDCLIENTE>4</IDCLIENTE>
+    <NOMBRE>Juan</NOMBRE>
+    <APELLIDO1>Soria</APELLIDO1>
+    <APELLIDO2>Pozuello</APELLIDO2>
+    <DIRECCION>Avenida Carlos I, 15.</DIRECCION>
+    <REFCPPOBLACIONES>922</REFCPPOBLACIONES>
+    <TELEFONO>921112233</TELEFONO>
+    <MAIL>juan@soria.com</MAIL>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMCLIENTE>1003</NUMCLIENTE>
+  </clientes>
+</clientes>

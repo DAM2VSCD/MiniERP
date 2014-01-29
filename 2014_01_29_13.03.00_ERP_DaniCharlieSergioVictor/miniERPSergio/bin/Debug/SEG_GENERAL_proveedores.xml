@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<proveedores>
+  <proveedores>
+    <ID>3</ID>
+    <CIFNIF>24598835J</CIFNIF>
+    <NOMBRE>Zavvi</NOMBRE>
+    <DIRECCION>Via digital 4</DIRECCION>
+    <CP>8555</CP>
+    <TELEFONO>917788332</TELEFONO>
+    <ELIMINADO>0</ELIMINADO>
+  </proveedores>
+  <proveedores>
+    <ID>4</ID>
+    <CIFNIF>53579547N</CIFNIF>
+    <NOMBRE>carers</NOMBRE>
+    <DIRECCION>Calle Ciruela</DIRECCION>
+    <CP>2228</CP>
+    <TELEFONO>123456789</TELEFONO>
+    <ELIMINADO>0</ELIMINADO>
+  </proveedores>
+  <proveedores>
+    <ID>1</ID>
+    <CIFNIF>14149929F</CIFNIF>
+    <NOMBRE>Game SA</NOMBRE>
+    <DIRECCION>Centro Comercial Eroski</DIRECCION>
+    <CP>2209</CP>
+    <TELEFONO>926112233</TELEFONO>
+    <ELIMINADO>0</ELIMINADO>
+  </proveedores>
+  <proveedores>
+    <ID>2</ID>
+    <CIFNIF>59194388R</CIFNIF>
+    <NOMBRE>Amazon</NOMBRE>
+    <DIRECCION>Matrix distrito maquina 15</DIRECCION>
+    <CP>7525</CP>
+    <TELEFONO>11122332</TELEFONO>
+    <ELIMINADO>0</ELIMINADO>
+  </proveedores>
+</proveedores>

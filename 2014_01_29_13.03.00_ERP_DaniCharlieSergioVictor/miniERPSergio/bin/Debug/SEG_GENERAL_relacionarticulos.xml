@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<relacionarticulos>
+  <relacionarticulos>
+    <ID>1</ID>
+    <REFARTICULO>4</REFARTICULO>
+    <REFPROVEEDOR>1</REFPROVEEDOR>
+    <ELIMINADO>0</ELIMINADO>
+    <NOMBREPROV>Far Cry 3 venta anticipada</NOMBREPROV>
+    <PRECIOPROV>39</PRECIOPROV>
+  </relacionarticulos>
+</relacionarticulos>

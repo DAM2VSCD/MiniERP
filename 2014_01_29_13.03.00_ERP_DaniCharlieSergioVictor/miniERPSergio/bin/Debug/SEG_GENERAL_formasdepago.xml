@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<formasdepago>
+  <formasdepago>
+    <IDFORMAPAGO>1</IDFORMAPAGO>
+    <FORMAPAGO>Tarjeta</FORMAPAGO>
+    <ACTIVO>0</ACTIVO>
+    <DESCRIPCION>4B, Master Card, Visa</DESCRIPCION>
+  </formasdepago>
+  <formasdepago>
+    <IDFORMAPAGO>2</IDFORMAPAGO>
+    <FORMAPAGO>Metalico</FORMAPAGO>
+    <ACTIVO>0</ACTIVO>
+    <DESCRIPCION>Consultar si mas de 100 euros</DESCRIPCION>
+  </formasdepago>
+  <formasdepago>
+    <IDFORMAPAGO>3</IDFORMAPAGO>
+    <FORMAPAGO>Paypal</FORMAPAGO>
+    <ACTIVO>0</ACTIVO>
+    <DESCRIPCION>Validar via consultoria</DESCRIPCION>
+  </formasdepago>
+  <formasdepago>
+    <IDFORMAPAGO>4</IDFORMAPAGO>
+    <FORMAPAGO>Microsoft points</FORMAPAGO>
+    <ACTIVO>0</ACTIVO>
+    <DESCRIPCION>Comprobar catalogo xboxlive</DESCRIPCION>
+  </formasdepago>
+</formasdepago>

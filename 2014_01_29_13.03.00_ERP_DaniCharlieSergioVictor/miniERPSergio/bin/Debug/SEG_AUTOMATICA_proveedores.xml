@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<proveedores>
+  <proveedores>
+    <ID>1</ID>
+    <CIFNIF>77577211m</CIFNIF>
+    <NOMBRE>pro</NOMBRE>
+    <DIRECCION>asd</DIRECCION>
+    <CP>-1</CP>
+    <TELEFONO>123</TELEFONO>
+    <ELIMINADO>0</ELIMINADO>
+  </proveedores>
+  <proveedores>
+    <ID>2</ID>
+    <CIFNIF>77577212y</CIFNIF>
+    <NOMBRE>victor</NOMBRE>
+    <DIRECCION>213</DIRECCION>
+    <CP>11137</CP>
+    <TELEFONO>123123</TELEFONO>
+    <ELIMINADO>0</ELIMINADO>
+  </proveedores>
+</proveedores>

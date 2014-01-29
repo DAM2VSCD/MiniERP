@@ -1,0 +1,66 @@
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\bin\Debug\miniERPSergio.exe
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\bin\Debug\miniERPSergio.pdb
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\bin\Debug\miniERPSergio.xml
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.Resources.resources
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.PedidosPrincipal.resources
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.exe
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.xml
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.pdb
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.PedidosBuscar.resources
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.exe
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.xml
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.pdb
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frmCambios.resources
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.Conectar.resources
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frmPrincipal.resources
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.Clientes.resources
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.Clientes_Eliminados.resources
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frm_Clientes.resources
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frm_Clientes_Eliminados.resources
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frm_Nuevo_Modificar_Clientes.resources
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.Resources.resources
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.Nuevo_Modificar_Clientes.resources
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.PedidosBuscar.resources
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.PedidosPrincipal.resources
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\bin\Debug\miniERPSergio.exe
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\bin\Debug\miniERPSergio.pdb
+F:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\bin\Debug\miniERPSergio.xml
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.Clientes.resources
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.Clientes_Eliminados.resources
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frm_Clientes.resources
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frm_Clientes_Eliminados.resources
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frm_Nuevo_Modificar_Clientes.resources
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.Nuevo_Modificar_Clientes.resources
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frmCambios.resources
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.Conectar.resources
+E:\DAM2\DESARROLLO_DE_INTERFACE\2013_11_25_MiniERP\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frmPrincipal.resources
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.exe
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.xml
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.pdb
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\bin\Debug\miniERPSergio.exe
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\bin\Debug\miniERPSergio.pdb
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\bin\Debug\miniERPSergio.xml
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frmArticulos.resources
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frmNewUser.resources
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frmUsuarios.resources
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frm_Clientes.resources
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frm_Clientes_Eliminados.resources
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frm_Nuevo_Modificar_Clientes.resources
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frmCambios.resources
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frmPrincipal.resources
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.Resources.resources
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frmConectar.resources
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frmPedidosBuscar.resources
+D:\Mis Documentos de Alumno\Visual Studio 2010\Projects\miniERP\2013_11_20_miniERP\2013_11_22_ParteSergio\miniERPSergio\miniERPSergio\obj\x86\Debug\miniERPSergio.frmPedidosPrincipal.resources
+C:\Users\Taiki\Desktop\miniERPFinal\miniERPFinal\miniERPSergio\obj\x86\Debug\miniERPSergio.exe
+C:\Users\Taiki\Desktop\miniERPFinal\miniERPFinal\miniERPSergio\obj\x86\Debug\miniERPSergio.xml
+C:\Users\Taiki\Desktop\miniERPFinal\miniERPFinal\miniERPSergio\obj\x86\Debug\miniERPSergio.pdb

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<articulosproveedores>
+  <articulosproveedores>
+    <ID>5</ID>
+    <REFPROVEEDOR>3</REFPROVEEDOR>
+    <NOMBRE>Tour de Francia edicion Zavvi</NOMBRE>
+    <PRECIO>35</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1003</NUMARTICULO>
+    <STOCK>16</STOCK>
+    <TIPO>3</TIPO>
+  </articulosproveedores>
+  <articulosproveedores>
+    <ID>6</ID>
+    <REFPROVEEDOR>3</REFPROVEEDOR>
+    <NOMBRE>Far cry 3</NOMBRE>
+    <PRECIO>56,23</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1004</NUMARTICULO>
+    <STOCK>34</STOCK>
+    <TIPO>4</TIPO>
+  </articulosproveedores>
+  <articulosproveedores>
+    <ID>7</ID>
+    <REFPROVEEDOR>3</REFPROVEEDOR>
+    <NOMBRE>Modern Warfare 2 importacion inglesa</NOMBRE>
+    <PRECIO>45</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1005</NUMARTICULO>
+    <STOCK>100</STOCK>
+    <TIPO>4</TIPO>
+  </articulosproveedores>
+  <articulosproveedores>
+    <ID>9</ID>
+    <REFPROVEEDOR>1</REFPROVEEDOR>
+    <NOMBRE>Far Cry 3 game</NOMBRE>
+    <PRECIO>15</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1007</NUMARTICULO>
+    <STOCK>19</STOCK>
+    <TIPO>4</TIPO>
+  </articulosproveedores>
+  <articulosproveedores>
+    <ID>1</ID>
+    <REFPROVEEDOR>2</REFPROVEEDOR>
+    <NOMBRE>Fifa 2014 deluxe</NOMBRE>
+    <PRECIO>57,23</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1000</NUMARTICULO>
+    <STOCK>100</STOCK>
+    <TIPO>3</TIPO>
+  </articulosproveedores>
+  <articulosproveedores>
+    <ID>2</ID>
+    <REFPROVEEDOR>2</REFPROVEEDOR>
+    <NOMBRE>prueba1</NOMBRE>
+    <PRECIO>15,23</PRECIO>
+    <ELIMINADO>1</ELIMINADO>
+    <NUMARTICULO>1000</NUMARTICULO>
+    <STOCK>12</STOCK>
+    <TIPO>3</TIPO>
+  </articulosproveedores>
+  <articulosproveedores>
+    <ID>3</ID>
+    <REFPROVEEDOR>1</REFPROVEEDOR>
+    <NOMBRE>Fifa 2014</NOMBRE>
+    <PRECIO>60,15</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1001</NUMARTICULO>
+    <STOCK>83</STOCK>
+    <TIPO>3</TIPO>
+  </articulosproveedores>
+  <articulosproveedores>
+    <ID>4</ID>
+    <REFPROVEEDOR>1</REFPROVEEDOR>
+    <NOMBRE>Tour de francia</NOMBRE>
+    <PRECIO>40</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1002</NUMARTICULO>
+    <STOCK>15</STOCK>
+    <TIPO>3</TIPO>
+  </articulosproveedores>
+  <articulosproveedores>
+    <ID>8</ID>
+    <REFPROVEEDOR>3</REFPROVEEDOR>
+    <NOMBRE>Far Cry 3</NOMBRE>
+    <PRECIO>56,23</PRECIO>
+    <ELIMINADO>1</ELIMINADO>
+    <NUMARTICULO>1006</NUMARTICULO>
+    <STOCK>34</STOCK>
+    <TIPO>4</TIPO>
+  </articulosproveedores>
+  <articulosproveedores>
+    <ID>10</ID>
+    <REFPROVEEDOR>3</REFPROVEEDOR>
+    <NOMBRE>Dragon age</NOMBRE>
+    <PRECIO>24</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1008</NUMARTICULO>
+    <STOCK>50</STOCK>
+    <TIPO>2</TIPO>
+  </articulosproveedores>
+  <articulosproveedores>
+    <ID>11</ID>
+    <REFPROVEEDOR>1</REFPROVEEDOR>
+    <NOMBRE>Dragon age de game</NOMBRE>
+    <PRECIO>23</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1009</NUMARTICULO>
+    <STOCK>56</STOCK>
+    <TIPO>2</TIPO>
+  </articulosproveedores>
+</articulosproveedores>

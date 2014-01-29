@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tipos>
+  <tipos>
+    <IDTIPO>1</IDTIPO>
+    <NOMBRE>RPG japones</NOMBRE>
+    <ELIMINADO>0</ELIMINADO>
+  </tipos>
+  <tipos>
+    <IDTIPO>2</IDTIPO>
+    <NOMBRE>RPG europeo</NOMBRE>
+    <ELIMINADO>0</ELIMINADO>
+  </tipos>
+  <tipos>
+    <IDTIPO>3</IDTIPO>
+    <NOMBRE>Deportes</NOMBRE>
+    <ELIMINADO>0</ELIMINADO>
+  </tipos>
+  <tipos>
+    <IDTIPO>4</IDTIPO>
+    <NOMBRE>Shooter puro</NOMBRE>
+    <ELIMINADO>0</ELIMINADO>
+  </tipos>
+</tipos>

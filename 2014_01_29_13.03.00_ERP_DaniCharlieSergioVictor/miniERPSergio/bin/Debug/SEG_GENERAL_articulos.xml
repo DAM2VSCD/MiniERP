@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<articulos>
+  <articulos>
+    <IDARTICULO>1</IDARTICULO>
+    <NOMBRE>GTAV</NOMBRE>
+    <REFTIPO>4</REFTIPO>
+    <PRECIO>25</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1005</NUMARTICULO>
+    <STOCK>0</STOCK>
+  </articulos>
+  <articulos>
+    <IDARTICULO>2</IDARTICULO>
+    <NOMBRE>nuevo</NOMBRE>
+    <REFTIPO>1</REFTIPO>
+    <PRECIO>1</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1006</NUMARTICULO>
+    <STOCK>1</STOCK>
+  </articulos>
+  <articulos>
+    <IDARTICULO>3</IDARTICULO>
+    <NOMBRE>Tour de Francia</NOMBRE>
+    <REFTIPO>3</REFTIPO>
+    <PRECIO>45</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1002</NUMARTICULO>
+    <STOCK>10</STOCK>
+  </articulos>
+  <articulos>
+    <IDARTICULO>4</IDARTICULO>
+    <NOMBRE>Far Cry 3 plus</NOMBRE>
+    <REFTIPO>4</REFTIPO>
+    <PRECIO>67</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1003</NUMARTICULO>
+    <STOCK>45</STOCK>
+  </articulos>
+  <articulos>
+    <IDARTICULO>5</IDARTICULO>
+    <NOMBRE>Fifa 2014 plus</NOMBRE>
+    <REFTIPO>3</REFTIPO>
+    <PRECIO>67,28</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1000</NUMARTICULO>
+    <STOCK>37</STOCK>
+  </articulos>
+  <articulos>
+    <IDARTICULO>6</IDARTICULO>
+    <NOMBRE>Tour de Francia edicion verano</NOMBRE>
+    <REFTIPO>3</REFTIPO>
+    <PRECIO>23,34</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1001</NUMARTICULO>
+    <STOCK>14</STOCK>
+  </articulos>
+  <articulos>
+    <IDARTICULO>7</IDARTICULO>
+    <NOMBRE>Dragon Age edi limitada</NOMBRE>
+    <REFTIPO>2</REFTIPO>
+    <PRECIO>46</PRECIO>
+    <ELIMINADO>0</ELIMINADO>
+    <NUMARTICULO>1004</NUMARTICULO>
+    <STOCK>25</STOCK>
+  </articulos>
+</articulos>
