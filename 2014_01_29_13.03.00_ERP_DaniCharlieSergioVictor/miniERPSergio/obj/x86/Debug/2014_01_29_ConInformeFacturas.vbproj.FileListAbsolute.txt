@@ -42,35 +42,39 @@ D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSe
 D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.exe
 D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.xml
 D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.pdb
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\bin\Debug\miniERPSoloAprobados.exe
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\bin\Debug\miniERPSoloAprobados.pdb
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\bin\Debug\miniERPSoloAprobados.xml
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmCaja.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmNuevoCaja.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmModificar_Pendiente_Deuda.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmNuevoRelacion.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frm_Nuevo_Modificar_Proveedores.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frm_Proveedores.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.FormFacturas.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.FrmFacturas.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmArticulos.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmArticulosProv.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmNewArticulo.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmNewArticuloProv.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmNewUser.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmUsuarios.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.InformeFormularios.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frm_Clientes.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frm_Nuevo_Modificar_Clientes.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmDetallePedidos.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmPedidosBuscar.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmPedidosNuevo.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmCambios.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmConectar.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmGeneroNuevoModificar.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmPrincipal.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.Resources.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmGenero.resources
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\GenerateResource.read.1.tlog
-D:\Mis Documentos de Alumno\GitHub\MiniERP\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\bin\Debug\miniERPSoloAprobados.exe.config
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.exe
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.xml
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.pdb
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\bin\Debug\miniERPSoloAprobados.exe
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\bin\Debug\miniERPSoloAprobados.pdb
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\bin\Debug\miniERPSoloAprobados.xml
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmCaja.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmNuevoCaja.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmModificar_Pendiente_Deuda.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmNuevoRelacion.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frm_Nuevo_Modificar_Proveedores.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frm_Proveedores.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.FormFacturas.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.FrmFacturas.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmArticulos.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmArticulosProv.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmNewArticulo.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmNewArticuloProv.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmNewUser.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmUsuarios.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.InformeFormularios.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frm_Clientes.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frm_Nuevo_Modificar_Clientes.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmDetallePedidos.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmPedidosBuscar.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmPedidosNuevo.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmCambios.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmConectar.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmGeneroNuevoModificar.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmPrincipal.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.Resources.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\miniERPSoloAprobados.frmGenero.resources
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DAM\Desktop\2014_01_29_13.03.00_ERP_DaniCharlieSergioVictor\miniERPSergio\obj\x86\Debug\GenerateResource.write.1.tlog

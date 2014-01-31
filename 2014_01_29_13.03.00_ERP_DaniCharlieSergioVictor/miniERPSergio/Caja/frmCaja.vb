@@ -510,6 +510,10 @@
             validar.validar()
         End If
 
-        InformeFormularios.Show()
+        Try
+            InformeFormularios.Show()
+        Catch ex As Exception
+        End Try
+
     End Sub
 End Class

@@ -3,6 +3,7 @@
     Private con As New ConnectDB 'Conexion a la base de datos
     Private id As Integer = 0 'ID del usuario conectado
     Private nom As String 'Nombre del usuario conectado
+    Private iva As Double = 0.21
 
     ' Comprueba y gestiona si se deben poner etiquetas de error o de acierto.
     Public Sub gestionarErroresEtiquetas(ByVal esCorrecto As Boolean, ByRef incorrecto As PictureBox, ByRef correcto As PictureBox)
@@ -461,6 +462,171 @@
             insertarCambio("Copia de seguridad general creada", 0)
             MsgBox("Copia de Seguridad General de la Base de Datos realizada con éxito")
         End If
+    End Sub
+
+    Public Function numNuevaFactura() As Integer
+
+        Dim search As ConnectDB = New ConnectDB
+        
+        If TypeOf search.DLookUp("max(numfactura)", "facturas_clientes", "") Is DBNull Then
+            Dim numero As String = Year(DateTime.Now) & "001"
+            Return Integer.Parse(numero)
+        Else
+            Return (search.DLookUp("max(numfactura)", "facturas_clientes", "") + 1)
+        End If
+
+    End Function
+
+    Public Sub crearFacturaDesdePedidos(ByVal idpedido As Integer, ByVal idusuario As Integer)
+
+        Dim search As ConnectDB = New ConnectDB
+        Dim data As DataSet = New DataSet
+
+        Dim idfactura As Integer
+        Dim num As Integer
+        Dim fecha As Integer
+        Dim hora As Integer
+        Dim importeneto As Double
+        Dim importetotal As Double
+        Dim contabilizada As Integer
+
+        'Seleccionar el id de la factura
+        If TypeOf search.DLookUp("max(idfactura)", "facturas_clientes", "") Is DBNull Then
+            idfactura = 1
+        Else
+            idfactura = (search.DLookUp("max(idfactura)", "facturas_clientes", "") + 1)
+        End If
+
+        'Num de la factura
+        num = numNuevaFactura()
+
+        'Fecha de la factura
+        fecha = Fecha2number(Date.Now)
+
+        'Hora de la factura
+        hora = hora2number(Date.Now)
+
+        'Referencia al cliente al que va referido
+        Dim cliente As Integer
+        cliente = (search.DLookUp("refcliente", "pedidos_clientes", " idpedido like '" & idpedido & "'"))
+
+        importeneto = 0.0
+
+        importetotal = 0.0
+
+        'Contabilizada
+        contabilizada = 1
+
+
+        'Insert de Factura
+        con.setData("insert into facturas_clientes (idfactura,numfactura, fecha, hora, refcliente, refusuario, importeneto, importetotal, contabilizada) " &
+                    "VALUES(" & idfactura & "," & num & "," & fecha & "," & hora & "," & cliente & "," & idusuario & ",'" & importeneto & "','" & importetotal & "', 0)")
+
+
+
+        '---------------------------------------------------------------------------------------------------------------
+
+        'Llamada al metodo generadDetallesFacturaPedidos
+        generarDetallesFacturaPedidos(idpedido, idfactura)
+
+
+        '----------------------------------------------------------------------------------------------------------------
+
+        'Insertar en la tabla las referencias facturas y pedidos
+
+        'Id ref
+        Dim idref As Integer
+        If TypeOf search.DLookUp("max(id)", "relacion_facturas_pedclientes", "") Is DBNull Then
+            idref = 1
+        Else
+            idref = (search.DLookUp("max(id)", "relacion_facturas_pedclientes", "") + 1)
+        End If
+
+        'Insert
+        con.setData("insert into relacion_facturas_pedclientes (id,refpedido, reffactura) " &
+                    "VALUES(" & idref & "," & idpedido & ",'" & idfactura & "')")
+
+        '-----------------------------------------------------------------------------------------------------------------
+
+    End Sub
+
+    'Metodo que genera unos Detalles de factura, dependiendo del id de un pedido
+
+    Public Sub generarDetallesFacturaPedidos(ByVal idPedido As Integer, ByVal reffacturapas As Integer)
+
+        Dim search As ConnectDB
+        Dim data As DataSet
+        search = New ConnectDB
+        data = New DataSet
+
+
+        'Declaracion Atributos
+        Dim idfacturadetalles As Integer
+        Dim refFactura As Integer = reffacturapas
+        Dim concepto As String
+        Dim cantidad As Integer
+        Dim importenetounitario As Double
+        Dim importenetototal As Double
+
+        'Sacar los valores del Detallepedido
+        data = search.getData("select articulos.nombre, pedidos_clientes_articulos.cantidad_obtenida, pedidos_clientes_articulos.precioventa from articulos, pedidos_clientes_articulos where articulos.idarticulo = pedidos_clientes_articulos.refarticulo", "tdetalles")
+        Dim tDetalles As DataTable = data.Tables("tdetalles")
+
+
+
+        'Establecer los valores y hacer el insert
+        For Each row As DataRow In tDetalles.Rows
+
+            'Id
+            If TypeOf search.DLookUp("max(id)", "facturas_clientes_detalles", "") Is DBNull Then
+                idfacturadetalles = 1
+            Else
+                idfacturadetalles = (search.DLookUp("max(id)", "facturas_clientes_detalles", "") + 1)
+            End If
+
+            'Concepto
+            concepto = row(0).ToString
+            'Cantidad
+            cantidad = Integer.Parse(row(1).ToString)
+            'ImporteUnitario
+            Try
+                importenetounitario = Convert.ToDouble(row(2).ToString)
+            Catch ex As Exception
+                MsgBox("Error al ejecutar un double")
+            End Try
+
+            'Importetotal
+            importenetototal = cantidad * importenetounitario
+
+
+            'Insert
+            con.setData("insert into facturas_clientes_detalles (id,reffactura, concepto, cantidad, importenetounitario, importenetototal) " &
+                        "VALUES(" & idfacturadetalles & "," & refFactura & ",'" & concepto & "'," & cantidad & "," & importenetounitario & "," & importenetototal & ")")
+
+        Next
+
+
+        '-------------------------------------------------------------------------------------------------------------------------------------
+
+        'Hago un update en la factura para calcular el neto y el total
+
+        Dim importeneto As Double
+        Dim importetotal As Double
+
+        'Importe Neto
+        If TypeOf search.DLookUp("sum(importenetototal)", "facturas_clientes_detalles", "reffactura like '" & refFactura & "'") Is DBNull Then
+            importeneto = 0
+        Else
+            importeneto = (search.DLookUp("sum(importenetototal)", "facturas_clientes_detalles", "reffactura like '" & refFactura & "'") + 1)
+        End If
+
+        'Importe Total
+        importetotal = importeneto + (importeneto * iva)
+
+
+        search.setData("update facturas_clientes set importeneto = '" & importeneto & "', importetotal = '" & importetotal & "' where idfactura = " & refFactura)
+
+
     End Sub
 
 End Module

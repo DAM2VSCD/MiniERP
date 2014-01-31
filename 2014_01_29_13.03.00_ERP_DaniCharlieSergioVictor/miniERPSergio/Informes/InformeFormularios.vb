@@ -6,10 +6,12 @@
 
     Private Sub CrystalReportViewer1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CrystalReportViewer1.Load
 
-        Me.MdiParent = frmPrincipal
+        Try
+            tclientes.Columns.Add("Concepto", Type.GetType("System.String"))
+            tclientes.Columns.Add("Fecha", Type.GetType("System.String"))
+        Catch ex As Exception
 
-        tclientes.Columns.Add("Concepto", Type.GetType("System.String"))
-        tclientes.Columns.Add("Fecha", Type.GetType("System.String"))
+        End Try
 
 
         data = conexion.getData("select descripcion, fecha , hora from cambios where tipo like 'V' order by fecha, hora", "Validaciones")

@@ -219,4 +219,14 @@
     Private Sub FacturasToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles FacturasToolStripMenuItem.Click
         FormFacturas.Show()
     End Sub
+
+    Private Sub PruebaFacturasToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PruebaFacturasToolStripMenuItem.Click
+        Try
+            crearFacturaDesdePedidos(1, 1)
+            MsgBox("Insertado")
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+
+    End Sub
 End Class

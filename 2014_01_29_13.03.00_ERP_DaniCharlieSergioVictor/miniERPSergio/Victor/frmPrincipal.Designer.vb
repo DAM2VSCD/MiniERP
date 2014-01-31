@@ -35,10 +35,11 @@ Partial Class frmPrincipal
         Me.ProveedoresToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.tsmCopiaGeneralXML = New System.Windows.Forms.ToolStripMenuItem()
         Me.tsmSalir = New System.Windows.Forms.ToolStripMenuItem()
+        Me.FacturasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.tsmPedidos = New System.Windows.Forms.ToolStripMenuItem()
         Me.tsmCambios = New System.Windows.Forms.ToolStripMenuItem()
         Me.tsmCaja = New System.Windows.Forms.ToolStripMenuItem()
-        Me.FacturasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.PruebaFacturasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.msMenu.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -52,7 +53,7 @@ Partial Class frmPrincipal
         '
         'msMenu
         '
-        Me.msMenu.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.SistemaToolStripMenuItem, Me.tsmPedidos, Me.tsmCambios, Me.tsmCaja})
+        Me.msMenu.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.SistemaToolStripMenuItem, Me.tsmPedidos, Me.tsmCambios, Me.tsmCaja, Me.PruebaFacturasToolStripMenuItem})
         Me.msMenu.Location = New System.Drawing.Point(0, 0)
         Me.msMenu.Name = "msMenu"
         Me.msMenu.Size = New System.Drawing.Size(775, 24)
@@ -127,6 +128,12 @@ Partial Class frmPrincipal
         Me.tsmSalir.Size = New System.Drawing.Size(198, 22)
         Me.tsmSalir.Text = "Salir"
         '
+        'FacturasToolStripMenuItem
+        '
+        Me.FacturasToolStripMenuItem.Name = "FacturasToolStripMenuItem"
+        Me.FacturasToolStripMenuItem.Size = New System.Drawing.Size(198, 22)
+        Me.FacturasToolStripMenuItem.Text = "Facturas"
+        '
         'tsmPedidos
         '
         Me.tsmPedidos.Name = "tsmPedidos"
@@ -145,11 +152,11 @@ Partial Class frmPrincipal
         Me.tsmCaja.Size = New System.Drawing.Size(42, 20)
         Me.tsmCaja.Text = "Caja"
         '
-        'FacturasToolStripMenuItem
+        'PruebaFacturasToolStripMenuItem
         '
-        Me.FacturasToolStripMenuItem.Name = "FacturasToolStripMenuItem"
-        Me.FacturasToolStripMenuItem.Size = New System.Drawing.Size(198, 22)
-        Me.FacturasToolStripMenuItem.Text = "Facturas"
+        Me.PruebaFacturasToolStripMenuItem.Name = "PruebaFacturasToolStripMenuItem"
+        Me.PruebaFacturasToolStripMenuItem.Size = New System.Drawing.Size(103, 20)
+        Me.PruebaFacturasToolStripMenuItem.Text = "Prueba Facturas"
         '
         'frmPrincipal
         '
@@ -186,4 +193,5 @@ Partial Class frmPrincipal
     Friend WithEvents tsmCopiaGeneralXML As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents tsmCaja As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents FacturasToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents PruebaFacturasToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 End Class
