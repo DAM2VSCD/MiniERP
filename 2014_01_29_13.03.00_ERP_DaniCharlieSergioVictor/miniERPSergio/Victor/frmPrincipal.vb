@@ -7,6 +7,8 @@
 
     Private Sub frmPrincipal_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
+        'COMENTARIO PARA PRUEBA DE REPO
+
         'DANI: Cremamos el objeto crypt y le damos la cadena que usará como clave para el método de encriptación.
         crypt = New Simple3Des("MiniERP&DAM2_2013")
         primer_inicio = True
