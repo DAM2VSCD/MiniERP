@@ -1,5 +1,7 @@
 ﻿Public Class frmPrincipal
 
+    'Comentario prueba de Subida
+
     Private Sub frmPrincipal_Disposed(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Disposed
         insertarCambio("Cierre de sesión", 0)
     End Sub
